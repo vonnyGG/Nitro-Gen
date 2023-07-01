@@ -1,0 +1,13 @@
+This statement serves to clarify the limitations and functionality of a Discord Nitro Generator. It is important to understand that a Discord Nitro Generator does not guarantee the generation of valid or functional Discord Nitro codes.
+
+A Discord Nitro Generator is a tool that simulates the process of generating Discord Nitro codes but does not guarantee their successful creation. The generation of valid and usable Nitro codes depends on several factors, including the availability of valid code patterns within the generator's algorithm and the inherent randomness of code generation.
+
+The usage of a Discord Nitro Generator does not imply or guarantee that users will receive functional Nitro codes that can be redeemed on the Discord platform. The generation process involves algorithms and techniques that simulate the generation process, but it does not possess the ability to access or generate authorized codes directly from the official Discord systems.
+
+It is essential to note that attempting to use a Discord Nitro Generator to generate or use unauthorized, invalid, or counterfeit Nitro codes is a violation of Discord's terms of service. Engaging in such activities can result in severe consequences, including but not limited to account suspension or termination.
+
+Users should exercise caution and adhere to the terms of service and guidelines set forth by Discord. Legitimate methods for obtaining Discord Nitro codes include purchasing them directly from Discord or receiving them through authorized promotions, giveaways, or events.
+
+This legal statement is intended to clarify that the use of a Discord Nitro Generator does not guarantee successful code generation and emphasizes the importance of complying with Discord's terms of service when obtaining and using Nitro codes.
+
+[Disclaimer: This legal statement is a general example and should not be considered as legal advice. It is recommended to consult with a legal professional to obtain accurate and tailored legal statements.]
